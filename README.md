@@ -1,6 +1,6 @@
-# Automatización Netflix - BDD con SOLID
+# Automatización Netflix - Jorge Baca
 
-Este proyecto automatiza login en Netflix con **Playwright + Cucumber** aplicando principios **SOLID**.
+Este proyecto automatiza login en Netflix con **Playwright + Cucumber** aplicando principios
 
 ## Requisitos
 
